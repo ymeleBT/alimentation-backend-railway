@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AlimentationDongmo.Api/AlimentationDongmo.Api.csproj" />
+    <Project Path="src/AlimentationDongmo.Domain/AlimentationDongmo.Domain.csproj" />
+    <Project Path="src/AlimentationDongmo.Infrastructure/AlimentationDongmo.Infrastructure.csproj" />
+    <Project Path="src/AlimentationDongmo.Seeder/AlimentationDongmo.Seeder.csproj" />
+  </Folder>
+</Solution>
