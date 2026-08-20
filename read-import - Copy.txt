@@ -1,0 +1,13 @@
+HERE IS HOW I SET ENVIRONMENT VARIABLE ON RAILWAY
+
+ConnectionStrings__DefaultConnection=Server=mysql-fwgi.railway.internal;Port=3306;Database=railway;User Id=root;Password=XNRsiuyGjkrsmgMrbHDBrVHbOKrhERHF;TreatTinyAsBoolean=true
+Jwt__Key=Tl0P50jK2Yo/+TAjO8YmikRAXLz3mBKsHRtoif/Og5vQCMZR7pUwkNn2YKpPpUY4a7TvOajzIIQHIVILN1D4Dg==
+Smtp__User=ymeleromeo@gmail.com
+Smtp__Password=Rolindsay1988
+Cors__AllowedOrigins__0=https://alimentation.dmsacad.com
+Cors__AllowedOrigins__1=https://localhost
+
+HERE IS WHERE MY CODE MANIPULATES THOSE VARIABLES:
+/src/AlimentationDongmo.Api/appsettings.json
+
+NB: Migration is not run automatically upon deploy in .Net environment. It is manual except you turn it into automatic.
